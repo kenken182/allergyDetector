@@ -12,6 +12,7 @@ allergyDetect is a React Native iOS application that allows a user to take a pho
 - List of foods after photo is taken
 - Showing the user if they are allergic or not
 
+# Requirements 
 In order to use this, you need to initialize a Firebase app. A config.js file is needed with a variable called firebaseConfig, like this:
 
 ```JavaScript
