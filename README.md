@@ -15,6 +15,7 @@ export const firebaseConfig = {
     googleCloudVisionApiKey: "x",
   };
 ```
+The config.js file should be located in the root of your project.
 
 You will also need to initialize an environment file with the following:
 ```JavaScript
@@ -32,6 +33,8 @@ EDAMAME_APP_ID=
 EDAMAME_APP_KEY=
 GOOGLE_CLOUD_VISION_API=
 ```
+
+The .env file should be located in the root of your project.
 
 For the Edamame environment variables, you will need an Edamame API key. This is used in order to provide recipes to the client to cross-reference ingredients.
 One more thing you need is a GCP API Key for Cloud Vision, which is the environment variable GOOGLE_CLOUD_VISION_API.
