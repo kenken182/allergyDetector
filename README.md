@@ -1,5 +1,5 @@
 # allergyDetector
-allergyDetect is a React Native iOS application that allows a user to take a photo of their meal, and will cross reference the meal's ingredients with the users list of allergies in order to determine if the user is allergic to the meal or not. Included is user-specific allergens, as well as sign up and login pages.
+allergyDetect is a React Native iOS application that allows a user to take a photo of their meal, and will cross reference the meal's ingredients with the users list of allergies in order to determine if the user is allergic to the meal or not. Included is user-specific allergens, as well as ability to sign up and login.
 
 allergyDetector is created using React Native, Express.js, Firebase, Google Cloud APIs, and Edamame API.
 
