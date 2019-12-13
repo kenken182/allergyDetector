@@ -1,0 +1,5 @@
+.env
+.firebaserc
+.firebase
+googlecred.json
+node_modules/**/*
